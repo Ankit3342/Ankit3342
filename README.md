@@ -1,4 +1,7 @@
-
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Ankit+Kumar;A+Passionate+Java+Developer!" />
+</h1>
 # 👨‍💻 About Me  
 - Full-stack developer with experience in both **design** and **development**.  
 - 💡 Passionate about turning **ideas into real-world products**.  
